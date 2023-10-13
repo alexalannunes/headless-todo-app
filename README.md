@@ -1,5 +1,9 @@
 # Headless Todo App
 
+Note:
+
+_The code was written without thinking about readability and good practices. I'm just having fun and studying the new libraries in the React ecosystem. But I think about improving this project_ 🚀
+
 Build with:
 
 * Vite
